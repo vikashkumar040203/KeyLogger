@@ -6,7 +6,7 @@ This key logger is designed to take screenshots at a 30 second interval and send
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@octokatherine](https://www.github.com/vikashkumar040203)
 
 
 ## Features
